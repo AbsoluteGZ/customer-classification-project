@@ -25,7 +25,6 @@
 ├── ML test task v3/          # Папка с исходными данными
 │   ├── context_df.csv
 │   └── test_task.parquet
-├── .gitignore                # Файл для исключения артефактов и кэша из Git
 ├── ML_test_Gradient_boost.ipynb # Jupyter Notebook для обучения моделей бустинга
 ├── ML_test_MLP.ipynb         # Jupyter Notebook для обучения MLP модели
 ├── inference_boosting.py     # Скрипт для тестирования моделей бустинга
