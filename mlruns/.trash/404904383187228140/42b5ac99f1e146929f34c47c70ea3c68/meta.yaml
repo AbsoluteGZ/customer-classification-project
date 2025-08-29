@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Programing/mlruns/404904383187228140/42b5ac99f1e146929f34c47c70ea3c68/artifacts
+deleted_time: 1756474065097
+end_time: 1756394522609
+entry_point_name: ''
+experiment_id: '404904383187228140'
+lifecycle_stage: deleted
+run_id: 42b5ac99f1e146929f34c47c70ea3c68
+run_name: brawny-snipe-453
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756394299574
+status: 3
+tags: []
+user_id: dire_foxy

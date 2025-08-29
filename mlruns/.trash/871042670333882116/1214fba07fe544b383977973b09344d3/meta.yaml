@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Programing/mlruns/871042670333882116/1214fba07fe544b383977973b09344d3/artifacts
+deleted_time: 1756393131194
+end_time: 1756387521249
+entry_point_name: ''
+experiment_id: '871042670333882116'
+lifecycle_stage: deleted
+run_id: 1214fba07fe544b383977973b09344d3
+run_name: dashing-lark-42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756387064680
+status: 3
+tags: []
+user_id: dire_foxy

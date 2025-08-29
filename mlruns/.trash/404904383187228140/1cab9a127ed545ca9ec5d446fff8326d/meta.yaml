@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Programing/mlruns/404904383187228140/1cab9a127ed545ca9ec5d446fff8326d/artifacts
+deleted_time: 1756474065097
+end_time: 1756393755081
+entry_point_name: ''
+experiment_id: '404904383187228140'
+lifecycle_stage: deleted
+run_id: 1cab9a127ed545ca9ec5d446fff8326d
+run_name: resilient-stag-95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756393465153
+status: 4
+tags: []
+user_id: dire_foxy

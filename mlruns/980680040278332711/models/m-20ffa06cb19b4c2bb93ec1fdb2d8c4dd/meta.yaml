@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Programing/mlruns/980680040278332711/models/m-20ffa06cb19b4c2bb93ec1fdb2d8c4dd/artifacts
+creation_timestamp: 1756474597727
+experiment_id: '980680040278332711'
+last_updated_timestamp: 1756474602175
+model_id: m-20ffa06cb19b4c2bb93ec1fdb2d8c4dd
+model_type: null
+name: model_pytorch
+source_run_id: 7a004f7cffd14fe396c485a320d11f18
+status: 2
+status_message: null

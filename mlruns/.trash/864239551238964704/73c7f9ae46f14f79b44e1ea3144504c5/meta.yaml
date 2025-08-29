@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Programing/mlruns/864239551238964704/73c7f9ae46f14f79b44e1ea3144504c5/artifacts
+deleted_time: 1756315349623
+end_time: 1756313656632
+entry_point_name: ''
+experiment_id: '864239551238964704'
+lifecycle_stage: deleted
+run_id: 73c7f9ae46f14f79b44e1ea3144504c5
+run_name: likeable-snipe-446
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756313656612
+status: 4
+tags: []
+user_id: dire_foxy

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Programing/mlruns/864239551238964704/5bf26a7d73db4ebd8aeaa446ab3c5076/artifacts
+deleted_time: 1756315349623
+end_time: 1756313647900
+entry_point_name: ''
+experiment_id: '864239551238964704'
+lifecycle_stage: deleted
+run_id: 5bf26a7d73db4ebd8aeaa446ab3c5076
+run_name: crawling-gnu-614
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756313647882
+status: 4
+tags: []
+user_id: dire_foxy

@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Programing/mlruns/570687945332654398/models/m-b7a43f3b9a18499395fd129d4dacad54/artifacts
+creation_timestamp: 1756395628246
+experiment_id: '570687945332654398'
+last_updated_timestamp: 1756395632900
+model_id: m-b7a43f3b9a18499395fd129d4dacad54
+model_type: null
+name: lightgbm_model
+source_run_id: d67c13959fa3404ba58bf874523eec29
+status: 2
+status_message: null

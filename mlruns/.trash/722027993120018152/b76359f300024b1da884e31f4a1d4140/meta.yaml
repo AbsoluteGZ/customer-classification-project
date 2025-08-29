@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Programing/mlruns/722027993120018152/b76359f300024b1da884e31f4a1d4140/artifacts
+deleted_time: 1756393131190
+end_time: 1756320075342
+entry_point_name: ''
+experiment_id: '722027993120018152'
+lifecycle_stage: deleted
+run_id: b76359f300024b1da884e31f4a1d4140
+run_name: melodic-wren-17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756319993870
+status: 4
+tags: []
+user_id: dire_foxy

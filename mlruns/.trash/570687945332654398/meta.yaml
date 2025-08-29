@@ -1,0 +1,7 @@
+artifact_location: file:///c:/Programing/mlruns/570687945332654398
+creation_time: 1756395624750
+experiment_id: '570687945332654398'
+last_update_time: 1756474065094
+lifecycle_stage: deleted
+name: CusClass_Prediction_LightGBM_Balanced_500_LagsDeltas_CatDates
+tags: {}

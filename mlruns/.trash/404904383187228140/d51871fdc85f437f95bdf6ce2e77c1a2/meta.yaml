@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Programing/mlruns/404904383187228140/d51871fdc85f437f95bdf6ce2e77c1a2/artifacts
+deleted_time: 1756474065097
+end_time: 1756391112868
+entry_point_name: ''
+experiment_id: '404904383187228140'
+lifecycle_stage: deleted
+run_id: d51871fdc85f437f95bdf6ce2e77c1a2
+run_name: nebulous-snail-416
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756391112719
+status: 4
+tags: []
+user_id: dire_foxy

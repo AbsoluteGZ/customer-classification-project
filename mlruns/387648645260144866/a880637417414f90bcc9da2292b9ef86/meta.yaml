@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Programing/mlruns/387648645260144866/a880637417414f90bcc9da2292b9ef86/artifacts
+end_time: 1756474440930
+entry_point_name: ''
+experiment_id: '387648645260144866'
+lifecycle_stage: active
+run_id: a880637417414f90bcc9da2292b9ef86
+run_name: CatBoost
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756474328497
+status: 3
+tags: []
+user_id: dire_foxy

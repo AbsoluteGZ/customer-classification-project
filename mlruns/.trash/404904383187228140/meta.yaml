@@ -1,0 +1,7 @@
+artifact_location: file:///c:/Programing/mlruns/404904383187228140
+creation_time: 1756391112567
+experiment_id: '404904383187228140'
+last_update_time: 1756474065097
+lifecycle_stage: deleted
+name: CusClass_Prediction_TabNet_Balanced_500_LagsDeltas_CatDates
+tags: {}

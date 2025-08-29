@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Programing/mlruns/864239551238964704/63ffd685b1c4401ea70858059b4c68c0/artifacts
+deleted_time: 1756315349628
+end_time: 1756314556438
+entry_point_name: ''
+experiment_id: '864239551238964704'
+lifecycle_stage: deleted
+run_id: 63ffd685b1c4401ea70858059b4c68c0
+run_name: dapper-bear-938
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756314541458
+status: 4
+tags: []
+user_id: dire_foxy

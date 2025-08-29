@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Programing/mlruns/722027993120018152/19c7561569384c9c95644c0d1c7bc92c/artifacts
+deleted_time: 1756393131190
+end_time: 1756321046343
+entry_point_name: ''
+experiment_id: '722027993120018152'
+lifecycle_stage: deleted
+run_id: 19c7561569384c9c95644c0d1c7bc92c
+run_name: receptive-bee-539
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756320782831
+status: 3
+tags: []
+user_id: dire_foxy

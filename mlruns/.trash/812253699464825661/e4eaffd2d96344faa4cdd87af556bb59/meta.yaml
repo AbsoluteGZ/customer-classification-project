@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Programing/mlruns/812253699464825661/e4eaffd2d96344faa4cdd87af556bb59/artifacts
+deleted_time: 1756474065073
+end_time: 1756397915800
+entry_point_name: ''
+experiment_id: '812253699464825661'
+lifecycle_stage: deleted
+run_id: e4eaffd2d96344faa4cdd87af556bb59
+run_name: salty-shrew-131
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756397865848
+status: 3
+tags: []
+user_id: dire_foxy

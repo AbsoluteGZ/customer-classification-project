@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Programing/mlruns/285641909178154915/15d9e831bbb543ef8cf4e2f2ef6c6f97/artifacts
+deleted_time: 1756474065079
+end_time: 1756396427093
+entry_point_name: ''
+experiment_id: '285641909178154915'
+lifecycle_stage: deleted
+run_id: 15d9e831bbb543ef8cf4e2f2ef6c6f97
+run_name: XGBoost
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756396421687
+status: 3
+tags: []
+user_id: dire_foxy

@@ -1,0 +1,7 @@
+artifact_location: file:///c:/Programing/mlruns/568544299174909397
+creation_time: 1756395751942
+experiment_id: '568544299174909397'
+last_update_time: 1756474065094
+lifecycle_stage: deleted
+name: CusClass_Prediction_XGBoost_Balanced_500_LagsDeltas_CatDates
+tags: {}

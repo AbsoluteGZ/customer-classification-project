@@ -1,0 +1,7 @@
+artifact_location: file:///c:/Programing/mlruns/871042670333882116
+creation_time: 1756386906123
+experiment_id: '871042670333882116'
+last_update_time: 1756393131194
+lifecycle_stage: deleted
+name: CusClass_Prediction_TabNet_Balanced_500_DateFeatures_NoLags
+tags: {}

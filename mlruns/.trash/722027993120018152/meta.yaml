@@ -1,0 +1,7 @@
+artifact_location: file:///c:/Programing/mlruns/722027993120018152
+creation_time: 1756319891359
+experiment_id: '722027993120018152'
+last_update_time: 1756393131190
+lifecycle_stage: deleted
+name: CusClass_Prediction_TabNet_with_Lags_Deltas
+tags: {}

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Programing/mlruns/864239551238964704/0af9fd342a74448f9e18d8bc00228dac/artifacts
+deleted_time: 1756315349627
+end_time: 1756315326548
+entry_point_name: ''
+experiment_id: '864239551238964704'
+lifecycle_stage: deleted
+run_id: 0af9fd342a74448f9e18d8bc00228dac
+run_name: melodic-mouse-493
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756315100885
+status: 4
+tags: []
+user_id: dire_foxy

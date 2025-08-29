@@ -1,0 +1,1 @@
+Linear(64)->BN->ReLU->Linear(32)->BN->ReLU->Dropout->Linear

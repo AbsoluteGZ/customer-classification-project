@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Programing/mlruns/404904383187228140/0cbf4481e1c54c54956ecfba6598291b/artifacts
+deleted_time: 1756474065097
+end_time: 1756391313958
+entry_point_name: ''
+experiment_id: '404904383187228140'
+lifecycle_stage: deleted
+run_id: 0cbf4481e1c54c54956ecfba6598291b
+run_name: flawless-dog-154
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756391311230
+status: 4
+tags: []
+user_id: dire_foxy

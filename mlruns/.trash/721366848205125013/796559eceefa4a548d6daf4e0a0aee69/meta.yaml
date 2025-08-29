@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Programing/mlruns/721366848205125013/796559eceefa4a548d6daf4e0a0aee69/artifacts
+deleted_time: 1756474065073
+end_time: 1756472401964
+entry_point_name: ''
+experiment_id: '721366848205125013'
+lifecycle_stage: deleted
+run_id: 796559eceefa4a548d6daf4e0a0aee69
+run_name: LightGBM
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756472394271
+status: 3
+tags: []
+user_id: dire_foxy
